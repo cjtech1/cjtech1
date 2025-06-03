@@ -1,20 +1,39 @@
 <h2 align="left">👋 Hello there! Myself Christin</h2>
 
 ###
+A curious and driven **3rd-year B.Tech student** with a passion for building things that live on the web 🌐.
 
-<p align="left">
-### 👋 Hello there!<br><br>I'm Christin— a curious and driven **3rd-year B.Tech student** with a passion for building things that live on the web 🌐.<br><br>---<br><br>
-### 🚀 What I'm Up To<br>- 🎯 Currently learning **JavaScript** and sharpening my frontend skills with small projects.<br>- 🧑‍💻 Working on a **full-stack web development project using PHP & MySQL**.<br>- 🔜 Planning to dive into **React** as my next step in frontend development.<br><br>---<br><br>
-### 🛠️ Tech Stack & Skills<br>- 💻 HTML | CSS | JavaScript<br>- 🐍 Python | C<br>- 🛠️ PHP | MySQL (in progress)<br>- 🌱 Exploring: React, Git, APIs<br><br>---<br><br>
-### 💡 Interests<br>- 🔧 Web & App Development  <br>- 🤖 AI-powered technologies  <br>- 🚀 Exploring and experimenting with new tech stacks  <br>- 📚 Reading self-development books & tech blogs  <br><br>---<br><br>
-### 🎯 Goals<br>- 🤝 Contributing to open-source projects  <br>- 💼 Landing a productive internship  <br>- 🧠 Always learning, always building</p>
+---
 
-###
+### 🚀 What I'm Up To
+- 🎯 Currently learning **JavaScript** and sharpening my frontend skills with small projects.
+- 🧑‍💻 Working on a **full-stack web development project using PHP & MySQL**.
+- 🔜 Planning to dive into **React** as my next step in frontend development.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cjtech1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&custom_title=Languages" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cjtech1&custom_title=Contributions&theme=github-dark-dimmed&area=true&hide_title=true" height="150" alt="activity-graph graph"  />
-</div>
+---
+
+### 🛠️ Tech Stack & Skills
+- 💻 HTML | CSS | JavaScript
+- 🐍 Python | C
+- 🛠️ PHP | MySQL (in progress)
+- 🌱 Exploring: React, Git, APIs
+
+---
+
+### 💡 Interests
+- 🔧 Web & App Development  
+- 🤖 AI-powered technologies  
+- 🚀 Exploring and experimenting with new tech stacks  
+- 📚 Reading self-development books & tech blogs  
+
+---
+
+### 🎯 Goals
+- 🤝 Contributing to open-source projects  
+- 💼 Landing a productive internship  
+- 🧠 Always learning, always building
+
+---
 
 ###
 
@@ -36,6 +55,14 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cjtech1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&custom_title=Languages" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cjtech1&custom_title=Contributions&theme=github-dark-dimmed&area=true&hide_title=true" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
