@@ -6,7 +6,7 @@ A curious and driven **3rd-year B.Tech student** with a passion for building thi
 ---
 
 ### 🚀 What I'm Up To
-- 🎯 Currently learning **JavaScript** and sharpening my frontend skills with small projects.
+- 🎯 Currently sharpening my frontend skills with small projects.
 - 🧑‍💻 Working on a **full-stack web development project using PHP & MySQL**.
 - 🔜 Planning to dive into **React** as my next step in frontend development.
 
@@ -22,15 +22,13 @@ A curious and driven **3rd-year B.Tech student** with a passion for building thi
 
 ### 💡 Interests
 - 🔧 Web & App Development  
-- 🤖 AI-powered technologies  
-- 🚀 Exploring and experimenting with new tech stacks  
-- 📚 Reading self-development books & tech blogs  
+- 🤖 Exploring AI-powered technologies  
+- 🚀 Exploring and experimenting with new tech stacks 
 
 ---
 
 ### 🎯 Goals
 - 🤝 Contributing to open-source projects  
-- 💼 Landing a productive internship  
 - 🧠 Always learning, always building
 
 ---
