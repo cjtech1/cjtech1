@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=Building+things+that+live+on+the+web+🌐;From+PHP+apps+to+AI-powered+tools+🤖;React+%7C+Next.js+%7C+TypeScript+%7C+Python;Shipping+projects+%2C+learning+every+day+🚀" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+things+that+live+on+the+web+%F0%9F%8C%90;From+PHP+apps+to+AI-powered+tools+%F0%9F%A4%96;React+%7C+Next.js+%7C+TypeScript+%7C+Python;Shipping+projects%2C+learning+every+day+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -49,7 +47,19 @@ I'm a **final year B.Tech student** who loves building across the stack. I start
 
 <br/>
 
-> 🔍 *Always exploring* — AI/ML integrations, new frameworks, and whatever looks interesting next.
+**AI / ML & Integrations**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="40" alt="tensorflow pytorch" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="40" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=graphql&logoColor=white" height="40" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="40" alt="HuggingFace" />
+</div>
+
+<br/>
+
+> 🔍 *Always exploring* — new frameworks, AI integrations, and whatever looks interesting next.
 
 ---
 
@@ -122,16 +132,16 @@ I'm a **final year B.Tech student** who loves building across the stack. I start
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cjtech1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cjtech1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cjtech1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most+Used+Languages" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=cjtech1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=cjtech1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cjtech1&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution+Graph" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cjtech1&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution+Graph" width="75%" alt="Contribution Graph" />
 </div>
 
 ---
